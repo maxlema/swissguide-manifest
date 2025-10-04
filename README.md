@@ -1,1 +1,0 @@
-# swissguide-manifest
